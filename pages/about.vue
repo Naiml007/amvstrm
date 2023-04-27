@@ -33,7 +33,7 @@
         <p>This is our official website and beware any of those fake websites. We do not put ads and make money from it.</p>
         <ul>
           <li>amvstrm-ten.vercel.app</li>
-          <li>www.amvstrm-ten.vercel.app (Privacy friendly)</li>
+          <li>amvstrm-ten.vercel.app (Privacy friendly)</li>
         </ul>
       </v-card-text>
       <v-card-actions>
