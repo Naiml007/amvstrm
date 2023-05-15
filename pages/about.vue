@@ -60,7 +60,7 @@
       <v-card-text>
         <p>
           <strong>Email : </strong>
-          <a href="mailto:admin@amvstr.ml">
+          <a href="mailto:distrion4gaming@gmail.com">
             <strong>
               <span class="text-primary">
                 <i>
