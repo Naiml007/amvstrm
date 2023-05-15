@@ -64,7 +64,7 @@
             <strong>
               <span class="text-primary">
                 <i>
-                  <span class="mdi mdi-email">admin@amvstr.ml</span>
+                  <span class="mdi mdi-email">distrion4gaming@gmail.com</span>
                 </i>
               </span>
             </strong>
